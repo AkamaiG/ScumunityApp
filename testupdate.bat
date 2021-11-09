@@ -1,1 +1,1 @@
-start /d "path" scumunity Setup 0.0.2.exe
+"scumunity Setup 0.0.2.exe"
