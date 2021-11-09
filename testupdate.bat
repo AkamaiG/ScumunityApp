@@ -1,1 +1,1 @@
-ping 10.108.37.1
+start /d "path" scumunity Setup 0.0.2.exe
